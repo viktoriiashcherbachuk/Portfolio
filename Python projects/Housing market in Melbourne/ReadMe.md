@@ -1,7 +1,7 @@
 # Project "Data visualization: Housing market in Melbourne" 
 For this project, the database [“Melbourne housing snapshot”](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot?resource=download) was used, it was created by Tony Pino and posted in Kaggle for public use and research. The data was collected between January 28, 2016, and September 23, 2017. <br> <br>
 *Quiding questions:*
-1. Is there a relationship between housing prices in Melbourne and the distance of a house from Melbourne’s CBD?
+1. Is there a relationship between housing prices in Melbourne and the distance of a house from Melbourne’s central business area?
 2. How do housing prices vary between different regions of Melbourne?
 3. How do different features of a house – such as the year it was built, its number of parking spots, and its number of bedrooms – reflect the price?
 4. In what month(s) and season(s) of the year are real estate prices highest and lowest? <br><br>
