@@ -3,6 +3,18 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Portfolio for Viktoriia Shcherbachuk, MSc"
 theme = "forty"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Enter your disqus shortname to enable comments
+disqusShortname = ""
+
+[params]
+# Provide your metadata here.
+  name = "Viktoriia Shcherbachuk"
+  description = "Portfolio/CV for Viktoriia Shcherbachuk"
+  
   [params.navigation]
     title = "Viktoriia Shcherbachuk, MSc"
     subtitle = "Graduate Student in the program Data Science and Analytics at the University of Calgary"
@@ -17,6 +29,23 @@ theme = "forty"
     [[params.navigation.links]]
       name = "Blog"
       url = "blogs"
+      
+# Banner section
+  [params.banner]
+    title = "Viktoriia"
+    subtitle = "Portfolio of Data Science and Visualization Projects"
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+    
+    [[params.tiles.showcase]]
+      title = "Housing market analysis in Melbourne, Australia"
+      subtitle = "Analysis conducted in R studio"
+      url = "R studio projects/Housing pricing in Melbourne project/"
+# Contact section
+  [params.contact]
+    enable = true
     [[params.contact.email]]
     title = "Email"
     email = "vpshcherbachuk (at) gmail.com"
@@ -34,13 +63,5 @@ theme = "forty"
       url= "https://www.linkedin.com/in/viktoriia-shcherbachuk-79aa6512a/"
       label = "LinkedIn"
       
-       [params.tiles]
-    enable = true
-    # Display your showcases here.
-    
-    [[params.tiles.showcase]]
-      title = "Housing market analysis in Melbourne, Australia"
-      subtitle = "Analysis conducted in R studio"
-      url = "R studio projects/Housing pricing in Melbourne project/"
       
       
