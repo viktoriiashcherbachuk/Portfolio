@@ -3,7 +3,7 @@ These projects have been made during the education in the Master program ["Data 
 
 R studio project:
 - ["Statistician analysis: Housing market in Melbourne"](https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/R%20studio%20projects/Housing%20pricing%20in%20Melbourne%20project/Housing%20market%20in%20Melbourne.html)
-<br>
 Python project:
 - "Data visualization: Housing market in Melbourne"
+
 
