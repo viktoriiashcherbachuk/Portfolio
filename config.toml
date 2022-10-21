@@ -5,7 +5,7 @@ title = "Portfolio for Viktoriia Shcherbachuk, MSc"
 theme = "forty"
   [params.navigation]
     title = "Viktoriia Shcherbachuk, MSc"
-    subtitle = "Graduate Student in the program "Data Science and Analytics" at the University of Calgary"
+    subtitle = "Graduate Student in the program 'Data Science and Analytics' at the University of Calgary"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -17,3 +17,21 @@ theme = "forty"
     [[params.navigation.links]]
       name = "Blog"
       url = "blogs"
+    [[params.contact.email]]
+    title = "Email"
+    email = "vpshcherbachuk (at) gmail.com"
+    # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Viktoriia Shcherbachuk"
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://github.com/viktoriiashcherbachuk/Portfolio"
+      label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fa-linkedin"
+      url= "https://www.linkedin.com/in/viktoriia-shcherbachuk-79aa6512a/"
+      label = "LinkedIn"
+      
+      
