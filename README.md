@@ -21,7 +21,7 @@ For this project, the database [“Melbourne housing snapshot”](https://www.ka
 4. In what month(s) and season(s) of the year are real estate prices highest and lowest? <br> <br>
 During this project, the knowledge from the course Data-601 "Working with Data and Visualization" was implemented.
 
-Because of the weight of the file project [the interactive map of Melbourne](https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/Python%20projects/Housing%20market%20in%20Melbourne/Interactive%20map%20of%20Melbourne.ipynb) was created in a separate file.
+Because of the weight of the file project [the interactive map of Melbourne](https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/Python%20projects/Housing%20market%20in%20Melbourne/Interactive%20map%20of%20Melbourne.ipynb) was created in a separate file. However, the size of the file is huge. Therefore, it is recommended to download the file to see the map.
 
 
 
