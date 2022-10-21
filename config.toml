@@ -49,7 +49,7 @@ disqusShortname = ""
     [[params.contact.email]]
     title = "Email"
     email = "vpshcherbachuk (at) gmail.com"
-    # Footer section
+# Footer section
   [params.footer]
     enable = true
     copyright = "Viktoriia Shcherbachuk"
