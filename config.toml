@@ -34,4 +34,13 @@ theme = "forty"
       url= "https://www.linkedin.com/in/viktoriia-shcherbachuk-79aa6512a/"
       label = "LinkedIn"
       
+       [params.tiles]
+    enable = true
+    # Display your showcases here.
+    
+    [[params.tiles.showcase]]
+      title = "Housing market analysis in Melbourne, Australia"
+      subtitle = "Analysis conducted in R studio"
+      url = "R studio projects/Housing pricing in Melbourne project/"
+      
       
