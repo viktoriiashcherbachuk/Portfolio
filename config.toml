@@ -1,1 +1,19 @@
+# Site settings
+baseURL = "/"
+languageCode = "en-us"
+title = "Portfolio for Viktoriia Shcherbachuk, MSc"
+theme = "forty"
+  [params.navigation]
+    title = "Viktoriia Shcherbachuk, MSc"
+    subtitle = "Graduate Student in the program "Data Science and Analytics" at the University of Calgary"
+    menu = "Menu"
+    # Optional logo as brand stored in img/
+    # logo = "logo.png"
 
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
+
+    [[params.navigation.links]]
+      name = "Blog"
+      url = "blogs"
