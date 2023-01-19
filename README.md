@@ -2,6 +2,11 @@
 These projects were made during my education in the Master's program ["Data Science and Analytics"](https://science.ucalgary.ca/data-science) at the University of Calgary. <br>
 
 R studio project:
+- ["Multiple Regression Analysis: Prediction of Average Overall Achievement Score of schools in North Carolina"] (https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/R%20studio%20projects/Overall%20Achievement%20Score%20of%20schools%20in%20North%20Carolina/Final-Project-Report-Data-603_Group3.pdf) <br>
+For this project, the database [“School Report Cards (SRC)”](https://www.dpi.nc.gov/data-reports/school-report-cards/school-report-card-resources-researchers) was taken from the North Carolina Department of Public Instruction.
+School level factors were taken into consideration in order to see how they are affecting the Overall Achievement Score of students at schools. <br> <br>
+The best interaction model has been built for the prediction. Data cleaning and wrangling have been conducted as well as the individual t-test, stepwise regression procedure, F-test and multiple regression assumptions have been checked. <br> <br>
+
 - ["Statistician analysis: Housing market in Melbourne"](https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/R%20studio%20projects/Housing%20market%20in%20Melbourne%20project/Housing%20market%20in%20Melbourne.pdf) <br>
 For this project, the database [“Melbourne housing snapshot”](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot?resource=download) was used, it was created by Tony Pino and posted in Kaggle for public use and research. The data was collected between January 28, 2016, and September 23, 2017. <br> <br>
 *Topics to inverstigate:*
@@ -12,6 +17,15 @@ During this project, the knowledge from the course Data-602 "Statistical Data An
 <br>
 
 Python project:
+- [""Health Outcomes Related to Air Quality and Economic factors in New York City""] (https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/Python%20projects/Health%20Outcomes%20In%20New%20York%20City/Health%20Outcomes%20in%20NYC.ipynb) <br>
+For this project, we examined the relationships between air quality and neighbourhood poverty, and checked what effect this has on cancer rates and incidents of asthma in New York City.  <br>
+The 4 open-source datasets were taken from ["the New York City Department of Health Environment and Health Data Portal from the New York City government website"](https://a816-dohbesp.nyc.gov/IndicatorPublic/beta/). The main idea of this project was to master **SQL language with help of Python**. <br>
+*Quiding questions:*
+1. By looking at different areas of New York City, can we conclude in general a poor neighbourhood has higher cancer rate and worse air quality?
+2. Which pollutants have the highest correlations with which cancers?
+3. Does poor air quality increase the prevalence of asthma in adults? Does the borough in NYC affect this? Which pollutants has the greatest effect on asthma incidents?
+4. Do the poorest neighbourhoods have the highest incidents of asthma among adults?<br> <br>
+
 - ["Data visualization: Housing market in Melbourne"](https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/Python%20projects/Housing%20market%20in%20Melbourne/Housing%20market%20in%20Melbourne_without%20map.ipynb) <br>
 For this project, the database [“Melbourne housing snapshot”](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot?resource=download) was used, it was created by Tony Pino and posted in Kaggle for public use and research. The data was collected between January 28, 2016, and September 23, 2017. <br> <br>
 *Quiding questions:*
