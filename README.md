@@ -1,7 +1,7 @@
 # Portfolio by Viktoriia Shcherbachuk
 These projects were made during my education in the Master's program ["Data Science and Analytics"](https://science.ucalgary.ca/data-science) at the University of Calgary. <br>
 
-R studio project:
+**R studio project:**
 - ["Multiple Regression Analysis: Prediction of Average Overall Achievement Score of schools in North Carolina"] (https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/R%20studio%20projects/Overall%20Achievement%20Score%20of%20schools%20in%20North%20Carolina/Final-Project-Report-Data-603_Group3.pdf) <br>
 For this project, the database [“School Report Cards (SRC)”](https://www.dpi.nc.gov/data-reports/school-report-cards/school-report-card-resources-researchers) was taken from the North Carolina Department of Public Instruction.
 School level factors were taken into consideration in order to see how they are affecting the Overall Achievement Score of students at schools. <br> <br>
@@ -16,10 +16,10 @@ For this project, the database [“Melbourne housing snapshot”](https://www.ka
 During this project, the knowledge from the course Data-602 "Statistical Data Analysis" was implemented.
 <br>
 
-Python project:
+**Python project:**
 - [""Health Outcomes Related to Air Quality and Economic factors in New York City""] (https://github.com/viktoriiashcherbachuk/Portfolio/blob/main/Python%20projects/Health%20Outcomes%20In%20New%20York%20City/Health%20Outcomes%20in%20NYC.ipynb) <br>
 For this project, we examined the relationships between air quality and neighbourhood poverty, and checked what effect this has on cancer rates and incidents of asthma in New York City.  <br>
-The 4 open-source datasets were taken from ["the New York City Department of Health Environment and Health Data Portal from the New York City government website"](https://a816-dohbesp.nyc.gov/IndicatorPublic/beta/). The main idea of this project was to master **SQL language with help of Python**. <br>
+The 4 open-source datasets were taken from ["the New York City Department of Health Environment and Health Data Portal from the New York City government website"](https://a816-dohbesp.nyc.gov/IndicatorPublic/beta/). The main idea of this project was to master **SQL language with help of Python**. <br> <br>
 *Quiding questions:*
 1. By looking at different areas of New York City, can we conclude in general a poor neighbourhood has higher cancer rate and worse air quality?
 2. Which pollutants have the highest correlations with which cancers?
